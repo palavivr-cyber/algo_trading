@@ -25,9 +25,7 @@ redis==5.2.1
 # --- Trading / quant (wired in from Phase 4 onward) ---
 ccxt==4.4.31
 pandas==2.2.3
-numpy==2.2.1
-vectorbt==0.26.2
-backtrader==1.9.78.123
+numpy==1.26.4
 
 # --- Testing ---
 pytest==8.3.4
